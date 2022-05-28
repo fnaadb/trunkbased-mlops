@@ -9,7 +9,7 @@
             "value": "mlw-trunkbased-dev"
         },
         "resourceGroupName": {
-            "value": "mlopsmax"
+            "value": "mlops-trunkbased-dev"
         },
         "cpuTrainComputeSize": {
             "value": "STANDARD_D12"
