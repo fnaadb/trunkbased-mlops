@@ -1,6 +1,6 @@
   WORKSPACENAME: mlw-trunkbased-dev
-  RESOURCEGROUPNAME: mlopsmax
-  STORAGEACCOUNTNAME: mlopstorageaccount
+  RESOURCEGROUPNAME: mlops-trunkbased-dev
+  STORAGEACCOUNTNAME: aamldatalake
   LOCATION: eastus2
   KEYVAULTNAME: kv-trunkbased-dev
   ENVPREFIX: dev
