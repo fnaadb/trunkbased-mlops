@@ -27,7 +27,7 @@
             "value": "Analytics.Aml.Experiments.Sources"
         },
         "datasetsAccountName": {
-            "value": "aamldatalake"
+            "value": "arieftrunkbasedmlops"
         },
         "datasetsFileSystem": {
             "value": "trusted"
