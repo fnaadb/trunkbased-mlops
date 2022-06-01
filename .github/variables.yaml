@@ -1,8 +1,8 @@
-  WORKSPACENAME: mlw-trunkbased-dev
+  WORKSPACENAME: ariefmlwk-trunkbased-dev
   RESOURCEGROUPNAME: mlops-trunkbased-dev
   STORAGEACCOUNTNAME: arieftrunkbasedmlops
   LOCATION: eastus2
-  KEYVAULTNAME: arief-trunkbased-dev
+  KEYVAULTNAME: ariefkv-trunkbased-dev
   ENVPREFIX: dev
   MODELNAME: hate-pt-speech
   DESCRIPTION: 'A hate detection model for tweets in portuguese'
